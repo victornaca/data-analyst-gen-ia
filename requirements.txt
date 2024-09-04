@@ -1,0 +1,5 @@
+langchain-core
+langchain-community
+langchain-groq
+langchain-experimental
+streamlit
