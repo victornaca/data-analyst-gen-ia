@@ -8,7 +8,7 @@ from langchain.schema import AgentFinish
 from langchain.schema.output import LLMResult
 from langchain_core.callbacks.base import BaseCallbackHandler
 from langchain_groq import ChatGroq
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = ""
 
 @dataclass
 class Event:
